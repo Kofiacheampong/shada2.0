@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715463439261",
+    "project_id": "shadatrade-15822",
+    "storage_bucket": "shadatrade-15822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715463439261:android:c697a93587b32d4f38b574",
+        "android_client_info": {
+          "package_name": "com.example.shada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715463439261-f75p3oi732ecc4ugdjjqs45sq8b221l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbipHjioYZGAFgTY-sVh9uAd_6_ysAwEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715463439261-f75p3oi732ecc4ugdjjqs45sq8b221l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
