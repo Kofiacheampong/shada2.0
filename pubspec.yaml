@@ -88,6 +88,10 @@ flutter:
     - family: Balsamiq_Sans
       fonts:
         - asset: fonts/Balsamiq_Sans/BalsamiqSans-Regular.ttf
+
+    - family: League_Spartan
+      fonts:
+        - asset: fonts/League_Spartan/static/LeagueSpartan-Black.ttf
         
         
   #
